@@ -11,7 +11,7 @@ The mod adds the following config classnames:
 * CfgAmmo
   * R_PG32V_AI_F
   * R_TBG32V_NOMOD_F
-* CfgMagazines
+* CfgMagazines (add via addMagazine or addMagazineCargo)
   * RPG32_AI_F
     * This variant of the RPG 42 AP rocket is allowed to be used against infantry and air units.
   * RPG32_HE_NOMOD_F

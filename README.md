@@ -1,7 +1,7 @@
 # jb_enhanced_launchers
 Arma 3 Enhanced Launchers Mod
 
-This mods the vanilla RPG 42 rockets to include a fly-by/whistle sound and it also modifies the RPG 42 HE rocket to allow for AI to use the round against infantry and air units which combined with the new sounds create interesting scenarios.
+This mods the vanilla RPG 42 rockets to include a fly-by/whistle sound and it also modifies the RPG 42 HE rocket to allow for AI to use the round against infantry and air units which when combined with the new sounds create more interesting scenarios in coop.
 
 The mod modifies the following CfgAmmo classnames:
 * R_PG32V_F
